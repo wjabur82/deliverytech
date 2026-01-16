@@ -1,4 +1,4 @@
-# Delivery Tech API
+# Delivery Tech API - Wagner
 Sistema de delivery desenvolvido com Spring Boot e Java 21.
 
 ## 🚀 Tecnologias
